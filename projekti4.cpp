@@ -10,6 +10,8 @@ int main() {
         cout << "Numri eshte pozitiv";
     else
         cout << "Numri eshte negativ";
+      
+    cout << "Fundi i programit." << endl;
 
     return 0;
 }
